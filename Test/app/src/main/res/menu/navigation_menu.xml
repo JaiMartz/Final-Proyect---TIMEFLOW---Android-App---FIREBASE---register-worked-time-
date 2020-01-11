@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/ic_home">
+
+    </item>
+    <item
+        android:id="@+id/historico"
+        android:title="Historico"
+        android:icon="@drawable/ic_historico">
+
+    </item>
+    <item
+        android:id="@+id/perfil"
+        android:title="Perfil"
+        android:icon="@drawable/ic_perfil">
+
+    </item>
+    <item
+        android:id="@+id/politicas"
+        android:title="Politicas"
+        android:icon="@drawable/ic_politicas">
+
+    </item>
+    <item
+        android:id="@+id/desconectar"
+        android:title="Desconectar"
+        android:icon="@drawable/ic_all_out_black_24dp">
+
+    </item>
+</menu>

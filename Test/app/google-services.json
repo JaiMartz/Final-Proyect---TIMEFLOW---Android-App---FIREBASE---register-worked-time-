@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "568044119944",
+    "firebase_url": "https://timeflow-97bb6.firebaseio.com",
+    "project_id": "timeflow-97bb6",
+    "storage_bucket": "timeflow-97bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568044119944:android:3ee4af3dda0841a0e2fc3d",
+        "android_client_info": {
+          "package_name": "com.example.pi_timeflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568044119944-ordt21umr0vg3lc1kgiir7b6v12fa9pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        },
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        },
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568044119944-ordt21umr0vg3lc1kgiir7b6v12fa9pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568044119944:android:f737ce1eb41d7637e2fc3d",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568044119944-ordt21umr0vg3lc1kgiir7b6v12fa9pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        },
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        },
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568044119944-ordt21umr0vg3lc1kgiir7b6v12fa9pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568044119944:android:d50df86ad32e01b2e2fc3d",
+        "android_client_info": {
+          "package_name": "com.example.timeflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568044119944-ji9u0198mgf5k602pphjeapqr5oegvtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timeflow",
+            "certificate_hash": "ab281c979a88dfb03b402c866bc0e768913f898a"
+          }
+        },
+        {
+          "client_id": "568044119944-ordt21umr0vg3lc1kgiir7b6v12fa9pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        },
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        },
+        {
+          "current_key": "AIzaSyCFdkJhmQySAd1LRssvrZYBGR6bCou1mcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568044119944-ordt21umr0vg3lc1kgiir7b6v12fa9pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
